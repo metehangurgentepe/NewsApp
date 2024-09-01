@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  NewsApp
+
+  Created by Metehan Gürgentepe on 1.09.2024.
+  
+*/
+
+
+// Ana Ekran (Home View)
+"home_select_date" = "Tarih Aralığını Seçin";
+"home_from" = "Başlangıç:";
+"home_to" = "Bitiş:";
+"home_done" = "Tamam";
+"home_cancel" = "İptal";
+"home_search_field" = "Aramak için buraya bir şeyler yazın";
+
+// Hata (Error)
+"error" = "Hata";
+"okButton" = "Tamam";
+"badRequestError" = "Geçersiz İstek (400): İsteği gerçekleştiremiyoruz.";
+"unauthorizedError" = "Yetkisiz (401): Kimlik doğrulaması gerekiyor.";
+"forbiddenError" = "Yasak (403): Bu kaynağa erişim izniniz yok.";
+"notFoundError" = "Bulunamadı (404): İstenen kaynak bulunamadı.";
+"serverError" = "Sunucu Hatası: İsteğinizi işleyemiyoruz.";
+"decodingError" = "Başarıyla çözümlenemedi.";
+"invalidResponse" = "Geçersiz yanıt.";
+"unknownStatusCodeError" = "Bilinmeyen hata, durum kodu:";
+
+// Favoriler (Favorites)
+"favorites_title" = "Favoriler";

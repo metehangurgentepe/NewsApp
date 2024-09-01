@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  NewsApp
+
+  Created by Metehan Gürgentepe on 1.09.2024.
+  
+*/
+
+
+// Startseite (Home View)
+"home_select_date" = "Datumsbereich auswählen";
+"home_from" = "Von:";
+"home_to" = "Bis:";
+"home_done" = "Fertig";
+"home_cancel" = "Abbrechen";
+"home_search_field" = "Geben Sie hier etwas ein, um zu suchen";
+
+// Fehler (Error)
+"error" = "Fehler";
+"okButton" = "OK";
+"badRequestError" = "Ungültige Anfrage (400): Anfrage konnte nicht ausgeführt werden.";
+"unauthorizedError" = "Nicht autorisiert (401): Authentifizierung erforderlich.";
+"forbiddenError" = "Verboten (403): Sie haben keine Berechtigung für diesen Zugriff.";
+"notFoundError" = "Nicht gefunden (404): Die angeforderte Ressource wurde nicht gefunden.";
+"serverError" = "Serverfehler: Anfrage konnte nicht verarbeitet werden.";
+"decodingError" = "Dekodierung fehlgeschlagen.";
+"invalidResponse" = "Ungültige Antwort.";
+"unknownStatusCodeError" = "Unbekannter Fehler, Statuscode:";
+
+// Favoriten (Favorites)
+"favorites_title" = "Favoriten";
