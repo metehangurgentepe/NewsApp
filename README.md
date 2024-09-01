@@ -1,6 +1,6 @@
 # NewsApp
 
-![NewsApp Logo](path_to_your_logo_image)
+![NewsApp Logo](https://github.com/metehangurgentepe/NewsApp/blob/main/Screenshots/logo.png)
 
 **NewsApp** is a four-paged news listing application built with Swift and UIKit. It fetches news from the Google News API, allowing users to browse, search, filter, and favorite news articles. The app is built using the MVVM architecture, ensuring a clear separation of concerns and maintainability.
 
